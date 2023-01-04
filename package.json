@@ -1,0 +1,31 @@
+{
+  "name": "movies_db",
+  "version": "1.0.0",
+  "description": "- BLANEZ, Mariana",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.28.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeridaBZ/Modelos-y-consultas-basicas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MeridaBZ/Modelos-y-consultas-basicas/issues"
+  },
+  "homepage": "https://github.com/MeridaBZ/Modelos-y-consultas-basicas#readme"
+}
